@@ -23,9 +23,9 @@ It can be used for surveillance, safety monitoring, and emergency alert systems.
 ## 📂 Project Files
 - `yolo.py` → Main script for detection
 - `obj.names` → List of object class names (`Gun`, `Fire`, `Rifle`)
-- `yolov4.cfg` → YOLO model configuration file
+- `yolov3.cfg` → YOLO model configuration file
 - `yolov4.weights` → Pre-trained YOLO weights for detection
-- `alarm.wav` → Optional alarm sound file for alerts
+
 
 ---
 
